@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007921_0000_102E018E5D45AED0"/>
-            <pb facs="tcp:007921_0001_102E0191645D3440"/>
+            <pb facs="unknown:007921_0000_102E018E5D45AED0"/>
+            <pb facs="unknown:007921_0001_102E0191645D3440"/>
             <p>MINUTES OF CONFERENCES, HELD WITH THE <hi>INDIANS,</hi> AT EASTON, In the Months of <hi>July,</hi> and <hi>Auguſt,</hi> 1757.</p>
             <p>
                <hi>PHILADELPHIA:</hi> Printed and Sold by B. FRANKLIN, and D. HALL, at the <hi>New-Printing-Office,</hi> near the Market. MDCCLVII.</p>
@@ -120,8 +120,8 @@
       </front>
       <body>
          <div type="conference_minutes">
-            <pb facs="tcp:007921_0002_102E0193C764DE38"/>
-            <pb n="3" facs="tcp:007921_0003_102E0196B470F8F8"/>
+            <pb facs="unknown:007921_0002_102E0193C764DE38"/>
+            <pb n="3" facs="unknown:007921_0003_102E0196B470F8F8"/>
             <head>
                <hi>Minutes of Conferences,</hi> &amp;c.</head>
             <div type="day">
@@ -179,7 +179,7 @@
                <p>Brother,</p>
                <p>
                   <label type="milestone">
-                     <seg type="milestoneunit">year </seg>1757</label> I AM very glad to meet you once more with your People, and ſome of your Uncles the <hi>Six Nations,</hi> according to your Agreement with me at this Place in <hi>November</hi> laſt. The Number of <hi>Indians</hi> you have brought down with you on this Occaſion, and the Pains you have taken to carry the News of our good Diſpoſitions for Peace to ſo great a Diſtance, confirms the good Opinion we have always had of you, and ſhews the Sincerity of the Profeſſions you have made of your earneſt Deſire to reſtore the Friendſhip and Bro<g ref="char:EOLhyphen"/>therly <pb n="4" facs="tcp:007921_0004_102E019853BB2D90"/>Love that always ſubſiſted between us and the <hi>Indians,</hi> till your fooliſh young Men were ſeduced by the evil Spirit, and turned againſt us.</p>
+                     <seg type="milestoneunit">year </seg>1757</label> I AM very glad to meet you once more with your People, and ſome of your Uncles the <hi>Six Nations,</hi> according to your Agreement with me at this Place in <hi>November</hi> laſt. The Number of <hi>Indians</hi> you have brought down with you on this Occaſion, and the Pains you have taken to carry the News of our good Diſpoſitions for Peace to ſo great a Diſtance, confirms the good Opinion we have always had of you, and ſhews the Sincerity of the Profeſſions you have made of your earneſt Deſire to reſtore the Friendſhip and Bro<g ref="char:EOLhyphen"/>therly <pb n="4" facs="unknown:007921_0004_102E019853BB2D90"/>Love that always ſubſiſted between us and the <hi>Indians,</hi> till your fooliſh young Men were ſeduced by the evil Spirit, and turned againſt us.</p>
                <p>
                   <hi>Brother</hi> Teedyuſcung, <hi>and Brethren of the</hi> Ten-united-Nations,</p>
                <p>We are now met together to finiſh, by the Aſſiſtance of the Almighty, the Great Work of Peace, and to make a new Chain of Friendſhip ſo bright, that it ſhall never ruſt, and ſo ſtrong, that it ſhall never be in the Power of wicked Spirits to break it, that we may always hereafter be as one Man, with but one Heart and one Head. I invite you to join heartily and ſincerely with me herein by this Belt.</p>
@@ -223,7 +223,7 @@
                   <g ref="char:punc">▪</g> ſpoke as follows.</p>
                <p>Brethren,</p>
                <p>I will let you know in a few Words what my Deſire is. I kindly receive your Words this Day: They are true, and make my Heart glad. By this Belt (holding up a Belt) I let you 
-<pb n="5" facs="tcp:007921_0005_102E019A8C238F28"/>
+<pb n="5" facs="unknown:007921_0005_102E019A8C238F28"/>
 know I will ſpeak To-morrow. I think it proper to ſpeak my Mind with Openneſs. I think it my Duty to remember the Conduct of my fooliſh young Men. I ſee a great deal of Miſchief done. I will firſt begin with cleaning up the Blood that has been ſhed, and removing the dead Bodies out of the Way: After that, I will make known my Grievances. I remember what Sir <hi>William Johnſon</hi> ſaid to me by the Meſſengers he ſent to me: I ſent back to him, by the ſame Meſſengers, and deſired him, as he was a wiſer Man than I, and of greater Abilities, that he would be ſtrong, and lend his Aſſiſtance to cure this Wound.</p>
                <p>
                   <hi>Gave a Belt.</hi>
@@ -279,7 +279,7 @@ know I will ſpeak To-morrow. I think it proper to ſpeak my Mind with Openneſs
                      <desc>〈…〉</desc>
                   </gap> It is our Duty therefore to join in Prayer, that he would hide theſe Things, that they <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
-                  </gap> never be ſeen by <pb n="6" facs="tcp:007921_0006_102E019EE8AAFAF0"/>our Poſterity, and that the Great Spirit would bleſs our Children, that they may hereafter live in Love together; that it may never be in the Power of the evil Spirit, or any evil mind<g ref="char:EOLhyphen"/>ed Perſons, to cauſe any Breach between our Peſterity.</p>
+                  </gap> never be ſeen by <pb n="6" facs="unknown:007921_0006_102E019EE8AAFAF0"/>our Poſterity, and that the Great Spirit would bleſs our Children, that they may hereafter live in Love together; that it may never be in the Power of the evil Spirit, or any evil mind<g ref="char:EOLhyphen"/>ed Perſons, to cauſe any Breach between our Peſterity.</p>
                <p>
                   <hi>Gave a Belt of ſeventeen Rows.</hi>
                </p>
@@ -345,7 +345,7 @@ know I will ſpeak To-morrow. I think it proper to ſpeak my Mind with Openneſs
                   </gap>onferences.</p>
                <p>Our warmeſt A<gap reason="illegible" resp="#PDCC" extent="6 letters">
                      <desc>••••••</desc>
-                  </gap>edgments are due to you for your juſt Performance of your Engage<g ref="char:EOLhyphen"/>ments. You have made known our good Diſpoſitions far and wide. You have brought <pb n="7" facs="tcp:007921_0007_102E01A186E05488"/>down your Uncles, and ſome of each of the other Nations with whom you are joined. We are pleaſed to obſerve they have hearkened to you, and are come ſo well diſpoſed to con<g ref="char:EOLhyphen"/>clude and eſtabliſh a firm and durable Peace. We return you very hearty Thanks in Behalf of His Majeſty King <hi>GEORGE,</hi> the People of this Province, and all His other Subjects.</p>
+                  </gap>edgments are due to you for your juſt Performance of your Engage<g ref="char:EOLhyphen"/>ments. You have made known our good Diſpoſitions far and wide. You have brought <pb n="7" facs="unknown:007921_0007_102E01A186E05488"/>down your Uncles, and ſome of each of the other Nations with whom you are joined. We are pleaſed to obſerve they have hearkened to you, and are come ſo well diſpoſed to con<g ref="char:EOLhyphen"/>clude and eſtabliſh a firm and durable Peace. We return you very hearty Thanks in Behalf of His Majeſty King <hi>GEORGE,</hi> the People of this Province, and all His other Subjects.</p>
                <p>
                   <hi>Gave a Belt.</hi>
                </p>
@@ -386,7 +386,7 @@ know I will ſpeak To-morrow. I think it proper to ſpeak my Mind with Openneſs
                      <desc>•••••</desc>
                   </gap> of the young Man who has been unfortunately wounded. It gives us great Concern that any Thing of this Kind ſhould happen. We have employed the moſt ſkilful Doctor we have amongſt us to take Care of him, and we pray <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
-                  </gap> the Almighty would bleſs the Medicines that are adminiſtered for his Cure. We by this String of Wam<g ref="char:EOLhyphen"/>pum <pb n="8" facs="tcp:007921_0008_102E01A32F618058"/>remove the Grief from your Heart, and deſire no Uneaſineſs may remain there. We have aſſured our Brother <hi>Teedyuſcung,</hi> that ſtrict Juſtice ſhall be done on the Trial, and we chooſe that you yourſelf ſhould be a Witneſs of it.</p>
+                  </gap> the Almighty would bleſs the Medicines that are adminiſtered for his Cure. We by this String of Wam<g ref="char:EOLhyphen"/>pum <pb n="8" facs="unknown:007921_0008_102E01A32F618058"/>remove the Grief from your Heart, and deſire no Uneaſineſs may remain there. We have aſſured our Brother <hi>Teedyuſcung,</hi> that ſtrict Juſtice ſhall be done on the Trial, and we chooſe that you yourſelf ſhould be a Witneſs of it.</p>
                <p>
                   <hi>Gave a String.</hi>
                </p>
@@ -432,7 +432,7 @@ know I will ſpeak To-morrow. I think it proper to ſpeak my Mind with Openneſs
                   <hi>Gave a Belt.</hi>
                </p>
                <p>Brother,</p>
-               <p>I would deſire alſo that you would look with all Diligence, and ſee from whence our Dif<g ref="char:EOLhyphen"/>ferences have ſprung. You may eaſily ſee they have ſprung from the Land or Earth, which was mentioned before, though it was not the principal Thing. If regular Methods had been formerly taken for an Habitation or Reſidence for the poor <hi>Indians</hi> in this Land, this would not have come to paſs. Now as it lies much in your Power to ſearch particularly into what was mentioned before, with reſpect to the Land, which was the Cauſe of our Differences, <pb n="9" facs="tcp:007921_0009_102E01A5B1C472B0"/>if I now can prevail with you, as I hope I ſhall, honeſtly to do what may be conſiſtent with Juſtice, then I will, with a loud Voice, ſpeak, and the Nations ſhall hear me. Then it depends on you, Brother, as I ſhall ſpeak with a loud Voice, and as you are of great<gap reason="illegible" resp="#PDCC" extent="2 letters">
+               <p>I would deſire alſo that you would look with all Diligence, and ſee from whence our Dif<g ref="char:EOLhyphen"/>ferences have ſprung. You may eaſily ſee they have ſprung from the Land or Earth, which was mentioned before, though it was not the principal Thing. If regular Methods had been formerly taken for an Habitation or Reſidence for the poor <hi>Indians</hi> in this Land, this would not have come to paſs. Now as it lies much in your Power to ſearch particularly into what was mentioned before, with reſpect to the Land, which was the Cauſe of our Differences, <pb n="9" facs="unknown:007921_0009_102E01A5B1C472B0"/>if I now can prevail with you, as I hope I ſhall, honeſtly to do what may be conſiſtent with Juſtice, then I will, with a loud Voice, ſpeak, and the Nations ſhall hear me. Then it depends on you, Brother, as I ſhall ſpeak with a loud Voice, and as you are of great<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap> Abilities than I, to aſſiſt me, that what I ſpeak to the Nations may be true, and that when I have made Proclamation with a loud Voice, by your Aſſiſtance, the Nations may hear and receive it with great Joy.</p>
                <p>Gave a Belt.</p>
@@ -449,7 +449,7 @@ know I will ſpeak To-morrow. I think it proper to ſpeak my Mind with Openneſs
                <p>As the Governor had by Letter informed me, that <hi>Teedyuſcung's</hi> Speech appeared to him dark and confuſed, and deſired me to call a Meeting in private with the <hi>Indians,</hi> and know what they meant; I accordingly, on the 30th of <hi>July,</hi> at Five a Clock in the Morn<g ref="char:EOLhyphen"/>ing, ſent for the King, and ſome of his Counſellors, and deſired them to call a Council and confider well the Speeches the King had made, and afterwards to explain them to me. At Half after Nine o'Clock, King <hi>Teedyuſcung,</hi> with <hi>Jepiſcauhunb, Epoweyowallund, Penawagh<g ref="char:EOLhyphen"/>wottind, Lepaghpetund, Kuhtanamaku, Jangepapawey, Weneywalika,</hi> his Counſellors, and <hi>John Pumpſhire,</hi> Interpreter, met at my Houſe, and explained his Speeches as follows.</p>
                <p>The Complaints I made laſt Fall, I yet continue. I think ſome Lands have been bought by the Proprietary, or his Agents, from <hi>Indians</hi> who had not a Right to ſell, and to whom the Lands did not belong. I think alſo, when ſome Lands have been ſold to the Proprietary by <hi>Indians</hi> who had a Right to ſell to a certain Place, whether that Purchaſe was to be mea<g ref="char:EOLhyphen"/>ſured by Miles or Hours Walk, that the Proprietaries have, contrary to Agreement or Bar<g ref="char:EOLhyphen"/>gain, taken in more Lands than they ought to have done, and Lands that belonged to others. I therefore now deſire that you will produce the Writings and Deeds by which you hold the Land, and let them be read in publick, and examined, that it may be fully known from what <hi>Indians</hi> you have bought the Lands you hold, and how far your Purchaſes extend, that Copies of the Whole may be laid before King <hi>GEORGE,</hi> and publiſhed to all the Pro<g ref="char:EOLhyphen"/>vinces under his Government. What is fairly bought and paid for I make no further Demands about: But if any Lands have been bought of <hi>Indians</hi> to whom theſe Lands did not belong, and who had no Right to ſell them, I expect a Satisfaction for theſe Lands. And if the Proprietaries have taken in more Lands than they bought of true Owners, I expect likewiſe to be paid for that. But as the Perſons to whom the Proprietaries may have ſold theſe Lands, which of Right belonged to me, have made ſome Settlements, I do not want to diſturb them, or to force them to leave them, but I expect a full Satisfaction ſhall be made to the true Owners for theſe Lands, though the Proprietaries, as I ſaid before, might have bought them from Perſons that had no Right to ſell them.</p>
                <p>With reſpect to our Settlement, we intend to ſettle at <hi>Wyoming,</hi> and we want to have certain Boundaries fixed between you and us; and a certain Tract of Land fixed, which it ſhall not be lawful for us or our Children ever to ſell, nor for you, or any of your Children, ever to buy. We would have the Boundaries fixed all round, agreeable to the Draught we 
-<pb n="10" facs="tcp:007921_0010_102E01A7E6265F68"/>
+<pb n="10" facs="unknown:007921_0010_102E01A7E6265F68"/>
 give you that we may not be preſſed on any Side, but have a certain Country fixed for our own Uſe, and the Uſe of our Children for ever.</p>
                <p>And as we intend to make a Settlement at <hi>Wyoming,</hi> and to build different Houſes from what we have done heretofore, ſuch as may laſt not only for a little Time, but for our Chil<g ref="char:EOLhyphen"/>dren after us; we deſire you will aſſiſt us in making our Settlements, and ſend us Perſons to inſtruct us in building Houſes, and in making ſuch Neceſſaries as ſhall be needful; and that Perſons be ſent to inſtruct us in the Chriſtian Religion, which may be for our future Wel<g ref="char:EOLhyphen"/>fare, and to inſtruct our Children in Reading and Writing; and that a fair Trade be eſtabliſh<g ref="char:EOLhyphen"/>ed between us, and ſuch Perſons appointed to conduct and manage theſe Affairs as ſhall be agreeable to us.</p>
                <p>I then aſked him, as Fort <hi>Auguſta</hi> was within the Lands he deſired to be aſſigned to them, whether he would acknowledge that Fortreſs to belong to the King of <hi>Great-Britain,</hi> for the Uſe of His Subjects in <hi>Pennſylvania,</hi> and all His other Subjects; and whether he would not be willing it ſhould continue as a Trading-Houſe, not only for the Good of us the <hi>Engliſh,</hi> and the Nations he repreſents, but of all the Nations that now are, or may be hereafter, in Al<g ref="char:EOLhyphen"/>liance with us; and whether he will not engage, in Conjunction with the <hi>Engliſh,</hi> to defend it againſt any of His Majeſty's Enemies that may come againſt it?</p>
@@ -492,7 +492,7 @@ give you that we may not be preſſed on any Side, but have a certain Country fi
                <p>
                   <hi>Brother,</hi>
                </p>
-               <p>You ſay that the Proceedings of our Anceſtors were ſhorter than they ought to have been, in Reſpect and Behalf of their Children; and alſo of their own everlaſting Peace. Bro<g ref="char:EOLhyphen"/>ther, our Anceſtors of this Province have been always eſteemed a good, honeſt and wiſe Peo<g ref="char:EOLhyphen"/>ple, and have always been diſtinguiſhed for their brotherly Love and kind Treatment of the <pb n="11" facs="tcp:007921_0011_102E01AA35C2C1A0"/>
+               <p>You ſay that the Proceedings of our Anceſtors were ſhorter than they ought to have been, in Reſpect and Behalf of their Children; and alſo of their own everlaſting Peace. Bro<g ref="char:EOLhyphen"/>ther, our Anceſtors of this Province have been always eſteemed a good, honeſt and wiſe Peo<g ref="char:EOLhyphen"/>ple, and have always been diſtinguiſhed for their brotherly Love and kind Treatment of the <pb n="11" facs="unknown:007921_0011_102E01AA35C2C1A0"/>
                   <hi>Indians,</hi> and their upright Dealing with them in their Publick Tranſactions. You ſay that the Cauſe of our Differences proceeded from the Land, and adviſe us to look ſtrictly into our Hearts for the Truth of this. Brother, we have, according to your Deſire, looked into our Hearts, and are not ſenſible that any of our Tranſactions with the <hi>Indians,</hi> either with Re<g ref="char:EOLhyphen"/>ſpect to Land, or otherwiſe, could have given Reaſon for the unhappy Breach betwen us. You have been ſo honeſt as to declare on all Occaſions, that the Land was not the principal Cauſe why you ſtruck us, but was only a Reaſon why the Stroke came the harder on us. As then, it was not the Cauſe of our firſt Differences, it ought not to be any Obſtacle to an immediate Concluſion of the Peace, which we are now met together with ſuch good Intentions to eſtabliſh. However we may differ in Opinion about Matters of Property, theſe are trifling Conſiderations, compared to the important Affair of uniting together in the firm Bands of Friendſhip. Let us therefore for the preſent ſuſpend them, and all Matters of leſs Mo<g ref="char:EOLhyphen"/>ment, and apply ourſelves in the firſt Place heartily to the Great Work of Peace, ſo much wiſhed for by both of us, and put Things on ſuch a Footing, that the Great King over the Waters, and His Subjects, and all the <hi>Indians,</hi> ſhall be pleaſed with it.</p>
                <p>
                   <hi>Gave a Belt.</hi>
@@ -513,7 +513,7 @@ give you that we may not be preſſed on any Side, but have a certain Country fi
                   <hi>Gave a Belt.</hi>
                </p>
                <p>
-                  <pb n="12" facs="tcp:007921_0012_102E01ABDC0372A0"/>
+                  <pb n="12" facs="unknown:007921_0012_102E01ABDC0372A0"/>
                   <hi>Brother,</hi>
                </p>
                <p>I have conſidered what you ſaid about a Settlement for yourſelves and your Poſterity, and am informed by Mr. <hi>Croghan,</hi> that <hi>Wyoming</hi> is the Place you would chuſe to ſettle at.</p>
@@ -566,7 +566,7 @@ give you that we may not be preſſed on any Side, but have a certain Country fi
                <p>BY this Belt (holding up a Belt) I remember what you ſaid Yeſterday in the Evening. All was well accepted, and very good, only one Word, or one material Thing. When the ſeveral different Nations of us, that call ourſelves the <hi>Ten Nations</hi> that are preſent, I mean the Counſellors, had conſidered what you ſaid, we approved all except one Thing. Alſo this Morning early, when we came to ſit down by ourſelves, and our Secretary with us, when we had done, and had fully underſtood one another, and agreed on every Word, we then ordered our Secretary to write it down.—[<hi>John Pumpſhire</hi> ſaid, I will juſt mention this in Addition; we ordered him to read it over three or four Times, and approved it.]—Having done that, we have the Words already written down, and if it pleaſe the Governor to hear it read, this that is written down is what was concluded on.</p>
                <p>The Governor, in Anſwer, told him, Brother, you know that this is quite a new Me<g ref="char:EOLhyphen"/>thod, and was never practiſed before.</p>
                <p>Brother, it is true, replied <hi>Teedyuſcung,</hi> you are right; this was not formerly practiſed; it never uſed to be ſo. Don't you ſee that I aim, by having a Clerk of my own, to exceed my Anceſtors, by having every Thing for the beſt. I endeavour, according to my Ideas, to look to thoſe that have the Authority; as for Inſtance, if they take up a Handful of Corn or 
-<pb n="13" facs="tcp:007921_0013_102E01AEEB4BB998"/>
+<pb n="13" facs="unknown:007921_0013_102E01AEEB4BB998"/>
 Pebbles, if they drop any, even one Grain, I will take Notice, and will ſpeak of it, that they may take it up.</p>
                <p>The Governor then applied to Mr. <hi>Croghan,</hi> to know whether this had ever been practiſed in any Treaty; Mr. <hi>Croghan</hi> ſaid it never was, and turning to the King, ſaid, Brother, this is quite a new Method, and what was never before practiſed. I well know the <hi>Indians</hi> have good memories, and can remember what was tranſacted twenty Years ago, as if Yeſterday, I ſhould therefore be glad the King would repeat himſelf what he has to ſay, as we are only treating with him. Then <hi>Teedyuſcung</hi> replied, Well, Brother the Governor, what we have conſulted and concluded on this Morning is this; I remember you told me laſt Night, that what was tranſacted laſt Fall, was laid before the King's Miniſters; and we took parti<g ref="char:EOLhyphen"/>cular Notice that you told us, that ſome Time before you came from <hi>Philadelphia,</hi> you fully intended to make all Satisfaction to me at this Treaty about Lands and Deeds; but that you received a Letter, or Letters, from the King or Proprietaries, I am not certain which, you know beſt; in Conſequence of which, you told us that you could not act in this Affair, but that Sir <hi>William Johnſon</hi> was appointed to tranſact <hi>Indian</hi> Affairs, and Mr. <hi>George Crog<g ref="char:EOLhyphen"/>ban</hi> was appointed to act in his Name. We remember very well, when we had a private Conference with you at your Dwelling, that you and Mr. <hi>Croghan</hi> roſe up, ſhock Hands with me, and you told us, this was the very Man that was appointed to act between the <hi>Engliſh</hi> and <hi>Indians.</hi> Now, in Conſideration of theſe Things, why ſhould we be obliged to go to Sir <hi>William Johnſon</hi> to have the Proof of Lands and D eds examined by him, when there is nothing in the Way, the Land Affair not being to be compared with the great Work of Peace, and ſhould not be any Hindrance to our making a League of Friendſhip.</p>
                <p>Now I will give you my Reaſons for not going.</p>
@@ -579,7 +579,7 @@ Pebbles, if they drop any, even one Grain, I will take Notice, and will ſpeak o
                <p>As ſoon as the Meeting was over, I told the Governor, the Good of His Majeſty's Service required, that <hi>Teedyuſcung</hi>'s Requeſt of having the Deeds and private Conferences read, and Copies of them given him, with a Copy of ſo much of the Proprietaries Letters as relates to having the Enquiry made by Sir <hi>William Johnſon,</hi> ſhould be granted.</p>
             </div>
             <div type="day">
-               <pb n="14" facs="tcp:007921_0014_102E01B091E8DAA8"/>
+               <pb n="14" facs="unknown:007921_0014_102E01B091E8DAA8"/>
                <head>
                   <hi>Eaſton, Auguſt</hi> 2, 1757.</head>
                <p>
@@ -642,7 +642,7 @@ Pebbles, if they drop any, even one Grain, I will take Notice, and will ſpeak o
                   <hi>Brother,</hi>
                </p>
                <p>I HAVE well weighed and conſidered what you ſaid to me at our laſt Meeting, and am ſorry you do not incline to go to Sir <hi>William Johnſon</hi> to have your Complaints ſtrictly en<g ref="char:EOLhyphen"/>quired into, and examined by him. It is true Sir <hi>William</hi> has, for ſome Time paſt, had a 
-<pb n="15" facs="tcp:007921_0015_102E01B2CA3F42B0"/>
+<pb n="15" facs="unknown:007921_0015_102E01B2CA3F42B0"/>
 general Commiſſion from the King to ſuperintend <hi>Indian</hi> Affairs, and that he has given Mr. <hi>Croghan</hi> a Power to Act as his Deputy, under which he might have been juſtified in going in<g ref="char:EOLhyphen"/>to an Examination as well of your Complaints as the Proprietaries Defence, had not the King's Miniſters lately been pleaſed to direct the Hearing to be before Sir <hi>William Johnſon</hi> himſelf. Though you may think yourſelves at Liberty, and may reſuſe to comply with theſe Directions, yet, as I told you before, I am the King's Servant, and obliged to obey, and can<g ref="char:EOLhyphen"/>not take upon me to go into a Defence of the Proprietaries Title at this Time. But as you ſo earneſtly deſire to ſee the Deeds for the Lands mentioned in your laſt Treaty, that you may be ſatisfied whether they are genuine, or whether the <hi>Indians</hi> who ſigned them had a Right to ſell thoſe Lands, I have brought them with me, and am willing to ſhew them to you now, or at any other Time you will appoint, and give you Copies of them, agreeable to your Requeſt.</p>
                <p>Here the Deeds were laid down on the Table.</p>
                <p>And now let all further Debates and Altercations concerning Lands reſt here, till they ſhall be fully examined and looked into by Sir <hi>William Johnſon,</hi> in order to be tranſmitted to the King for His Royal Determination.</p>
@@ -657,7 +657,7 @@ general Commiſſion from the King to ſuperintend <hi>Indian</hi> Affairs, and 
                <p>
                   <hi>Teedyuſcung</hi> then ſaid, If it pleaſe the Governor, in a few Words, what has been ſpoken on that Belt is as a Rumbling over the Earth, or Confuſion about Lands. I did not want you to make Mention of them, when I expected an Anſwer in a loving Manner. I wanted you ſhould come to the main Point, without having ſo many Words with it.</p>
                <p>As the <hi>Indians</hi> ſeemed very much at a Loſs about the Governor's Speech, I ſpoke to the King, and told him, that the firſt Part of the Governor's Speech was only to inform the King that the Deeds are now produced, and Copies will be given to him, agreeable to his own Requeſt, that they may be ſent to Sir <hi>William Johnſon,</hi> to be by him tranſmitted to the King 
-<pb n="16" facs="tcp:007921_0016_102E01B4660D4988"/>
+<pb n="16" facs="unknown:007921_0016_102E01B4660D4988"/>
 for His Determination. This done, we in the next Place now offer to take hold of the two Belts you mentioned at the laſt Meeting: That what was ſaid about agreeing upon Terms, only referred to the Exchange of Priſoners, and other Things uſual on making Peace; which <hi>Teedyuſcung</hi> ſaid he would do after the Peace was confirmed: That in the Concluſion of his Speech, the Governor only told the King, that the Proprietaries Letters, for a Copy of which the King aſked, were at <hi>Philadelphia,</hi> for which Reaſon the Governor could not comply with what the King requeſted, but that an Extract of as much of them as referred to this Affair, will be delivered to me ſome Time hence: In Confirmation of which the Governor gave the Belt.</p>
                <p>As ſoon as the King heard this, he roſe up, and taking up the two Belts tied together, he ſpoke as follows.</p>
                <p>I deſire you would with Attention hear me. By theſe two Belts I will let you know what was the ancient regular Method of confirming a laſting Peace. This you ought to have conſidered, and to have done; but I will put you in Mind. You may remember, when you took hold of my Hand, and led me down, and invited my Uncles, ſeveral of whom are preſent, with ſome from each of the <hi>Ten Nations,</hi> when we had agreed we came down to take hold of one of your Hands, and my Uncles came to take hold of the other Hand. Now, as this Day and this Time is appointed to meet and confirm a laſting Peace, we, that is, I and my Uncles, as we ſtand, and you, as you ſtand in the Name of the Great King, three of us ſtanding, we will all look up, and by continuing to obſerve the Agreements by which we ſhall oblige ourſelves one to another, we ſhall ſee the clear Light, and Friendſhip ſhall laſt to us, and our Poſterity after us, for ever. Now, as I have two Belts, and Witneſſes are preſent who will ſpeak the ſame, by theſe Belts, Brothers, in the Preſence of the <hi>Ten Nations,</hi> who are Witneſſes, I lay hold of your Hand (taking the Governor by the Hand) and brighten the Chain of Friendſhip that ſhall be laſting; and whatever Conditions ſhall be proper for us to agree to, may be mentioned afterwards: This is the Time to declare our mutual Friendſhip. Now, Brother the Governor, to confirm what I have ſaid, I have given you my Hand, which you were pleaſed to riſe and take hold of; I leave it with you. When you pleaſe, I am ready. Brother, if you have any Thing to ſay as a Token of confirming the Peace, I ſhall be ready to hear; and as you aroſe, I will riſe up, and lay hold of your Hand. To confirm what I have ſaid, I give you theſe Belts. <hi>Gave two Belts tied together.</hi>
@@ -673,7 +673,7 @@ for His Determination. This done, we in the next Place now offer to take hold of
                   <hi>Gave a very large white Belt, with the Figures of three Men in it, repreſenting His Majeſty King <hi>GEORGE,</hi> taking hold of the <hi>Five Nation</hi> King with one Hand, and <hi>Teedyuſ<g ref="char:EOLhyphen"/>cung,</hi> the <hi>Delaware</hi> King, with the other, and marked with the following Letters and Figure, <hi>G. R. 5 N. D. K.</hi> for King <hi>GEORGE, Five Nations, Delaware</hi> King.</hi>
                </p>
                <p>
-                  <pb n="17" facs="tcp:007921_0017_102E01B6D1152F28"/>
+                  <pb n="17" facs="unknown:007921_0017_102E01B6D1152F28"/>
 This done, the King again aſked the Governor for a Copy of the Conferences that had been held in private, that they might be read in Publick, and entered with the Minutes. The Governor ſaid it was ready, and ſhould be delivered immediately, and one was ſent for it. The Governor then aſked the King when it would be agreeable to him to have the Deeds read. The King ſaid, To-morrow Morning, between Seven and Eight a Clock; which Time was accordingly agreed on; and the Reading of the Private Conferences was deferred till that Time.</p>
                <p>I think it neceſſary to inſert here the following Speech of <hi>Laboughpeton,</hi> a <hi>Delaware</hi> Chief, made to <hi>Teedyuſcung</hi> at the Time he ſeemed at a Loſs about the Governor's Speech to him, which is as follows.</p>
                <p>"What, has not our Brother deſired you to bring us down by the Hand to make Peace? why don't you do it? We have been here theſe twenty Days, and have heard nothing but ſcolding and diſputing about Lands: Settle the Peace, and let all theſe Diſputes ſtand till after."</p>
@@ -689,7 +689,7 @@ This done, the King again aſked the Governor for a Copy of the Conferences that
                <p>This Evening the Governor wrote me, that his Letter from the Proprietaries was in <hi>Phi<g ref="char:EOLhyphen"/>ladelphia,</hi> Extracts of which he would give me as ſoon as I went to Town. And he aſſured me, that he would give me a Copy of the Deed mentioned in the Treaty of 1728.</p>
             </div>
             <div type="day">
-               <pb n="18" facs="tcp:007921_0018_102E01BA01FB89B0"/>
+               <pb n="18" facs="unknown:007921_0018_102E01BA01FB89B0"/>
                <head>
                   <hi>At a</hi> MEETING <hi>with the</hi> Indians <hi>in</hi> Eaſton, Thurſday, Auguſt 4, 1757.</head>
                <p>PRESENT,
@@ -732,7 +732,7 @@ This done, the King again aſked the Governor for a Copy of the Conferences that
                   <hi>Gave a Belt.</hi>
                </p>
                <p>When the Governor had delivered his Speech, and gave the Belt, <hi>Teedyuſcung</hi> ſaid, I will take no other Belt but the very ſame I have. Why have you done this now? Why did you 
-<pb n="19" facs="tcp:007921_0019_102DC827CE82BCA8"/>
+<pb n="19" facs="unknown:007921_0019_102DC827CE82BCA8"/>
 not do it before? After we had finiſhed, why do you make any Words about ſuch Things? This was your Duty; you ought to have done it before. If you really believed I would be faith<g ref="char:EOLhyphen"/>ful and honeſt, you might be ſure I would do it without your delivering a Belt. Now, as you have mentioned theſe Things, I alſo will mention, that you muſt deliver me my juſt Due about Lands. As you mention that your People look to you, expecting to ſee their Relations ſent back at this Treaty, ſo the Nations that lay Claim to theſe Lands look to me for them.</p>
                <p>
                   <hi>Returned the Belt.</hi>
@@ -756,7 +756,7 @@ not do it before? After we had finiſhed, why do you make any Words about ſuch 
                <p>The Governor afterwards continued his Entertainment, at which there was a great Chear<g ref="char:EOLhyphen"/>fulneſs. At Night was a large Bonfire, and a Variety of <hi>Indian</hi> Dances.</p>
             </div>
             <div type="day">
-               <pb n="20" facs="tcp:007921_0020_102E01BDF5B6A7F8"/>
+               <pb n="20" facs="unknown:007921_0020_102E01BDF5B6A7F8"/>
                <head>
                   <hi>At a</hi> MEETING <hi>with the</hi> Indians <hi>in</hi> Eaſton, Friday, Auguſt 5, 1757.</head>
                <p>PRESENT,
@@ -813,7 +813,7 @@ not do it before? After we had finiſhed, why do you make any Words about ſuch 
                <p>There is ſomething which we intended to ſay before, but forgot, as we have not the Uſe of Writing. But better late than never; we will therefore mention it now. The Copy of the Deeds, and the Tranſactions of this Treaty, we entruſt to our Clerk. We believe him to be an honeſt Man. Every Thing is done to Perfection. We hope you will not be a<g ref="char:EOLhyphen"/>gainſt his making out a Copy, and giving it to Mr. <hi>Iſaac Norris,</hi> whom we alſo appoint for us, to tranſmit to the King a Copy of the Deeds and Minutes of the Treaty, that, if one ſhould miſearry, the other may go ſafe.</p>
                <p>On which I acquainted <hi>Teedyuſcung,</hi> that the Governor and myſelf had no Objection to Mr. <hi>Norris</hi>'s having true Copies of the Minutes of theſe Conferences and Deeds, to ſend to the King, as he requeſted.</p>
                <p>
-                  <pb n="21" facs="tcp:007921_0021_102E01BF9455A870"/>
+                  <pb n="21" facs="unknown:007921_0021_102E01BF9455A870"/>
 Then, by Order of the Governor, Proclamation was made, that no One ſhould cheat, defraud or purchaſe any of the Goods now ready to be given to the <hi>Indians,</hi> upon the Pain and Penalties that may fall thereon.</p>
                <p>Then <hi>Teedyuſcung</hi> ſaid, he had yet one Thing more to mention.</p>
                <p>
@@ -881,7 +881,7 @@ Then, by Order of the Governor, Proclamation was made, that no One ſhould cheat
                </p>
                <p>AS we are now become one People, we muſt look on the Enemies of the one as the Enemies of the other.</p>
                <p>
-                  <pb n="22" facs="tcp:007921_0022_102E01C14C0BE490"/>
+                  <pb n="22" facs="unknown:007921_0022_102E01C14C0BE490"/>
 And I now, in the Name of the King of <hi>Great-Britain,</hi> your Father, and my Maſter, de<g ref="char:EOLhyphen"/>ſire you will turn the Edge of your Hatchet againſt your and our common Enemies, in Conjunction with your Uncles the <hi>Six Nations</hi> and us; and that you will not ſuffer any of His Majeſty's Enemies to paſs through your Country to war againſt any of His Subjects in this or the neighbouring Colonies: And if a Body of the Enemy, ſo large that you are not able to repel, ſhould attempt to paſs acroſs your Country, I expect you will give the earlieſt Notice you can of it to your Brethren the <hi>Engliſh,</hi> either by Way of <hi>Fort Auguſta,</hi> or any other Way you ſhall judge moſt convenient.</p>
                <p>
                   <hi>Gave a Belt.</hi>
@@ -928,7 +928,7 @@ And I now, in the Name of the King of <hi>Great-Britain,</hi> your Father, and m
                   <hi>Teedyuſcung</hi>
                </p>
                <p>
-                  <pb n="23" facs="tcp:007921_0023_102E01C5220C8998"/>
+                  <pb n="23" facs="unknown:007921_0023_102E01C5220C8998"/>
                   <hi>Teedyuſcung</hi> then taking up four Belts, and a String, ſpoke to his Uncles, the <hi>Six Nations,</hi> telling them, that as they had empowered him, he had, in the Preſence of theſe Witneſſes they had ſent, made a firm Peace with their Brethren the <hi>Engliſh</hi>; he, therefore, by theſe Belts deſired, that they would perform their Part; and as they ſaid they would take hold of the <hi>Engliſh</hi> by one Hand, and he by the other, he had now done it. And as the Chain of Friendſhip was now brightened, he deſired they would be ſtrong, and if they ſee any Ene<g ref="char:EOLhyphen"/>mies coming againſt us, they would look on it, that whoever ſtrikes any one of us ſtrikes all. Theſe Belts he gave to <hi>Anaquateeka,</hi> and deſired he would carry them to the <hi>Six Nations.</hi>
                </p>
                <p>
@@ -982,7 +982,7 @@ And I now, in the Name of the King of <hi>Great-Britain,</hi> your Father, and m
                </p>
                <p>I have a Word or two more to ſay. You know when you employ your Soldiers, they are paid for their Services. As I am joined with you, you being rich, and I poor, as I am going againſt your Enemies, and carrying my Fleſh againſt them, I think it would be proper, for the En<g ref="char:EOLhyphen"/>couragement of my young Men, to appoint ſome Reward for Scalps, and Priſoners, and that ſome Place may be fixed, where the Scalps and Priſoners may be brought in, and the Reward received, that my Men may return quickly from thence.</p>
                <p>
-                  <pb n="24" facs="tcp:007921_0024_102E01C7B8B9DDA8"/>
+                  <pb n="24" facs="unknown:007921_0024_102E01C7B8B9DDA8"/>
 Then the Governor ſaid, he would take into Conſideration what he, <hi>Teedyuſcung,</hi> had ſaid, and in Half an Hour would return an Anſwer.</p>
                <p>
                   <hi>Teedyuſcung</hi> further added; You may remember, when I mentioned <hi>Iſaac Norris,</hi> the Speaker, I mentioned him alone; but I did not intend to mention him alone, but that he, with the Aſſembly, ſhould look into it, and ſend Copies Home.—I then told <hi>Teedyuſ<g ref="char:EOLhyphen"/>cung,</hi> that I had no Objection to Mr. <hi>Norris,</hi> with the Aſſembly, ſending authentick Copies of the Minutes of this Treaty, and Deeds, Home.</p>
